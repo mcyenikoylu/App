@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJkWFammEAE6X/7VqXohwZu04ARKX9XiOymDh/GGmI/fjzRqkcHDCu36HETRhs4WXoGeoRmfzDzKr3MgL4ue5g==",
+  "success": true,
+  "projectFilePath": "/Users/mcyenikoylu/Documents/Projects/docker-working/App/DotNet.Docker.csproj",
+  "expectedPackageFiles": [
+    "/Users/mcyenikoylu/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/mcyenikoylu/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/Users/mcyenikoylu/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.17/microsoft.netcore.app.host.osx-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

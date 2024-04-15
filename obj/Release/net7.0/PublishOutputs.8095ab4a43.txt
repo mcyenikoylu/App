@@ -1,0 +1,5 @@
+/Users/mcyenikoylu/Documents/Projects/docker-working/App/bin/Release/net7.0/publish/DotNet.Docker
+/Users/mcyenikoylu/Documents/Projects/docker-working/App/bin/Release/net7.0/publish/DotNet.Docker.dll
+/Users/mcyenikoylu/Documents/Projects/docker-working/App/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/Users/mcyenikoylu/Documents/Projects/docker-working/App/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/Users/mcyenikoylu/Documents/Projects/docker-working/App/bin/Release/net7.0/publish/DotNet.Docker.pdb
